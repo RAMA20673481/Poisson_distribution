@@ -77,6 +77,8 @@ for x in range(len(obs)):
 # Output :
 <img width="626" height="322" alt="image" src="https://github.com/user-attachments/assets/3be732f4-8408-4da2-99bf-a830ab94b553" />
 
+# Github Link:
+[https://github.com/RAMA20673481/Poisson_distribution](https://github.com/RAMA20673481/Poisson_distribution)
 
 # Results
 
